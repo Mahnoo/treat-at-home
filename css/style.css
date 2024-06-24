@@ -3712,7 +3712,7 @@ h3 {
 }
 
 /* line 85, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_elements.scss */
-b,
+
 sup,
 sub,
 u,
@@ -3720,6 +3720,9 @@ del {
   color: #ff5e13;
 }
 
+b {
+  color: #26bef2;
+}
 /* line 93, ../../Arafath/CL/january 2020/241. Medical/HTML/scss/_elements.scss */
 h1 {
   font-size: 36px;
